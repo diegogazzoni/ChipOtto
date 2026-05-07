@@ -1,4 +1,4 @@
-# ChipOtto
+# chip8
 A Chip-8 implementation written in C with SDL2. It is a work in progress, so it might be possible to find bugs.
 
 <img width="642" height="359" alt="screen" src="https://github.com/user-attachments/assets/cf5723c1-f659-4cfa-bc3d-05f89dabdf80" />
@@ -24,3 +24,6 @@ This small project was created for educational purposes, to familiarize with the
 <img width="642" height="359" alt="invaders" src="https://github.com/user-attachments/assets/d4e12922-285c-4046-9c00-83180a6191ee" />
 
 <img width="642" height="359" alt="tictac" src="https://github.com/user-attachments/assets/18886c0c-463b-4b81-a586-b31e3ee7d70e" />
+
+# Very important note
+If you write ChipOtto ('otto' is Italian 'eight') you obtain a "funny" wordplay, since in Italian Chipotto would mean "something small and cute" (it's a pet name).
